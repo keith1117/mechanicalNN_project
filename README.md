@@ -1,8 +1,8 @@
 # MulaTOVA: Neural Network-Based Lattice Topology Optimization Interface
 
-MulaTOVA is a Flask-based web interface built on top of a provided PyTorch topology optimization framework for AI-assisted mechanical structure design.
+MulaTOVA is a PyTorch-based topology optimization framework for AI-assisted mechanical structure design. 
 
-The goal of this project is to make the topology optimization workflow easier to use by allowing users to configure experiment settings, run optimization tasks, and inspect generated results through a browser interface.
+This repository extends the framework with a Flask-based web interface for configuring experiments, running optimization tasks, and visualizing generated results.
 
 ## Overview
 
